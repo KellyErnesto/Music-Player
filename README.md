@@ -17,7 +17,7 @@ Desenvolvimento de um programa para ouvir músicas. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
+  <img alt="Desafio boraCodar 1" src=".github/desafioboracodar1.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -25,13 +25,12 @@ Desenvolvimento de um programa para ouvir músicas. <br/>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 - Figma
 
 ## 💻 Projeto
 
-O Music Player é um  programa para reprodução de músicas.
+O Music Player será um aplicativo para ouvir as suas músicas favoritas.
 
 - [Acesse o andamento do projeto online](https://kellyernesto.github.io/Music-Player/)
 
